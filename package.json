@@ -9,7 +9,7 @@
     "nodemon": "^2.0.22"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.23.0",
+    "@supabase/supabase-js": "^2.36.0",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "debug": "^4.3.4",
